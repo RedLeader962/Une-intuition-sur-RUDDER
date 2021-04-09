@@ -10,7 +10,7 @@ Présentation de l'article ***"RUDDER: Return Decomposition for Delayed Rewards"
 <br>
 
 <p>
-<img src="images/p0.png" width="410px">
+<img src="images/cover_slide.png" width="410px">
 <img src="images/p1.png" width="410px" >
 </p>
 <p>
